@@ -5,7 +5,7 @@
 </head>
 
 <body>
-<h1>A Real Pencil In A Digital Space</h1>
+<h1>A Real Pencil In Digital Space</h1>
 <p>If you come across the drawing posts on social media,</p>
 <p>make your comments inspiring to the artist. </p>
 <p>After all, it might be their passion,</p>  
