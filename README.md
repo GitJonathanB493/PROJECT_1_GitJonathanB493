@@ -13,3 +13,11 @@
 </body>
 
 ![angrybirds](assets/IMG3.jpg)
+
+h1 {
+  color: red;
+}
+
+background {
+  color: grey;
+}
