@@ -1,18 +1,18 @@
 
 h1 {
-  font-family:"Rubik Glitch",serif;
+  font-family:"times new roman",serif;
   font-weight: 300;
   font-style: normal;
   color: black;
 }
 body {
-  font-family:"Rubik Glitch",serif;
+  font-family:"times new roman",serif;
   font-weight: 300;
   font-style: normal;
   color: black;
 }
 title {
-  font-family:"Rubik Glitch",serif;
+  font-family:"times new roman",serif;
   font-weight: 300;
   font-style: normal;
   color: black;
@@ -27,6 +27,6 @@ h1 {
 }
 
 p {
-  font-family: verdana;
+  font-family: times new roman;
   font-size: 20 px;
 }
